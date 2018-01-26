@@ -14,3 +14,4 @@ MACRO(add_example name)
 ENDMACRO()
 
 add_example(readWriteDisplay)
+add_example(drawOverImage)
